@@ -23,7 +23,7 @@ var responses = {
 
 "how old are you?" : "I am currently 70 years old<br/> <br/>",
 
-"what time is it?" : "It is <br/>" + d.toLocaleTimeString(),
+"what time is it?" : "It is " + d.toLocaleTimeString(),
 
 "what are your plans for the border?" : "I will build a great, great wall on our southern border. And I will have Mexico pay for that wall.- July 27th, 2016<br/> <br/>",
 
