@@ -72,6 +72,12 @@ h4 {
     width: 100%;
 }
 
+body {
+  background-image: url("https://s3.amazonaws.com/dev1.mtimg.com/product_photos/imgs/000/021/546/full/MD_MakeAmericaDecentAgain_Red_SB-1.png");
+  background-repeat: no-repeat;
+  background-size: 700px 700px;
+}
+
 #input {
   background-color: #fff;
   border: 0px solid #C0C2C5;
