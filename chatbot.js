@@ -30,4 +30,12 @@ var responses = {
 "hi" : "Yes my wall will be very high.<br/> <br/>",
 
 "how are you?" : "I'm doing well.<br/> <br/>",
+
+"what is my name?" : "that is not my job.<br/> <br/>",
+
+"what is eddies' steam name?" : "It is EDLO325<br/> <br/>",
+
+"what does bjc means?" : "I don't know what that means<br/> <br/>",
+
+"what is the capital of taiwan?" : "Bangkok.<br/> <br/> "
 }
