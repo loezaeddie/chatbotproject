@@ -16,6 +16,13 @@ function askQuestion() {
 }
 }
 
+
+$(document).keydown(function(e) {
+ if (e.keyCode == 13) {
+askQuestion();
+ }
+});
+
 var responses = {
 "what do you think about Hillary?" : "Hillary Clinton invented ISIS with her stupid policies. She is responsible for ISIS.— Donald Trump on Sunday, July 17th, 2016<br/> <br/>",
 
